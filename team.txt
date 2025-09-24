@@ -1,4 +1,4 @@
 Team Members:
-1. Alice - Developer
+1. Alice - Lead Developer
 2. Bob - Designer
 3. Charlie - Manager
